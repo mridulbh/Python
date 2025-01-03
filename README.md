@@ -1,0 +1,1 @@
+This repo is used for learning python and creating related projects and solving related leetcode problems.
